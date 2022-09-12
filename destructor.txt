@@ -1,0 +1,18 @@
+1.destructor is amemner function of the class that is used to destroy yhe object.
+2.the destructor is automatically called when the object goes  out of scope.
+3.a destructor has same name as that of its class preceded by tilts symbol(~).
+ SYNTAX
+
+
+ class classname
+{
+public: 
+classname()
+{
+}
+~classname()
+{
+}
+};
+5.aprogramme can have as many of constructor
+
